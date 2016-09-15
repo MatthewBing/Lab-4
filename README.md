@@ -1,2 +1,2 @@
-# Lab-4
-Lab 4
+Matthew Bing
+Lab 4 – Git Version Control
