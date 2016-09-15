@@ -1,3 +1,4 @@
 Matthew Bing
-Lab 4 – Git Version Control
+Lab 4 â€“ Git Version Control
 FIXED
+Jacob Berman
